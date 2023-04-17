@@ -49,7 +49,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
       <Content Include="Algorithms/pufferfish2bmb/pufferfish2">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always<hn/CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 </Project>
